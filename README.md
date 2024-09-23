@@ -2,7 +2,7 @@
 
 # TO run the code in terminal type
 
-# step 1 : npm install // instaLl all node modules
+# step 1 : npm install //to install all node modules
 
 # step 2 : npm run // to run the web app
 
