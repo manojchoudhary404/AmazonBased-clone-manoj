@@ -4,6 +4,9 @@ This project is a fully responsive Amazon clone built using React for the front-
 # Amazon based clone
 
 
+## Authors
+
+- [@manojchoudhary404](https://github.com/manojchoudhary404)
 
 
 ## Installation
