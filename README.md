@@ -15,7 +15,7 @@ Install my-project with npm
 
 ```bash
   npm install my-project
-  cd my-project
+  cd Amazon-clone-
   npm run
   npm start
   npm run build
